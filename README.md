@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**prashil-vaishnani/prashil-vaishnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, 👋  I'm Prashil!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Currently, i'm pursuing my bachelor's in Information Technology. I am passionate about Software Development and Blockchain technology.
+
+
+## 🔗  contact me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashil-vaishnani-65b343194)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prashildV)
+
+
+
+![prashil's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashil-vaishnani&theme=dark&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=prashil-vaishnani&style=flat-square)
