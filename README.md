@@ -5,7 +5,6 @@
 ## 🚀 About Me
 Currently, i'm pursuing my bachelor's in Information Technology. I am passionate about Software Development and Blockchain technology.
 
-# Tools & Technology
 
 ## Languages & Framework:
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -18,7 +17,7 @@ Currently, i'm pursuing my bachelor's in Information Technology. I am passionate
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## IDE :
+## Tools & IDE :
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
