@@ -3,7 +3,8 @@
 
 
 ## 🚀 About Me
-Currently, i'm pursuing my bachelor's in Information Technology. I am passionate about Software Development and Blockchain technology.
+Currently, i'm pursuing my bachelor's in Information Technology. 
+I am passionate about Software Development and Blockchain technology.
 
 
 ## Languages & Framework:
