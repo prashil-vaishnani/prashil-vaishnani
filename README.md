@@ -3,7 +3,8 @@
 
 
 ## 🚀 About Me
-Currently, I'm pursuing my bachelor's in Information Technology. 
+I have completed my B.Tech Degree in information Technology.
+Currently, I'm working as a software developer at services base company. 
 
 I am passionate about Software Development and Blockchain technology.
 
